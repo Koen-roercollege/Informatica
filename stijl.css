@@ -9,3 +9,8 @@ h1 {
     font-family: verdana;
     font-size: 600%;
 }
+p {
+    font-size: 350%; 
+    font-family: verdana;
+    color: blue;
+}
