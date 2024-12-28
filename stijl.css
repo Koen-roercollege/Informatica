@@ -2,7 +2,7 @@ a {
     color: red;
     font-family: fantasy;
 }
-<h1 style="background-color:DodgerBlue;">DodgerBlue</h1>
+body {background-color: powderblue;}
 h1 {
     color: black;
     font-size: xx-large;
