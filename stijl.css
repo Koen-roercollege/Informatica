@@ -1,16 +1,16 @@
 a {
     color: red;
     font-family: verdana;
-    font-size: 250%
+    font-size: 130%
 }
 body {background-color: dogderblue;}
 h1 {
     color: black;
     font-family: verdana;
-    font-size: 600%;
+    font-size: 400%;
 }
 p {
-    font-size: 350%; 
+    font-size: 200%; 
     font-family: verdana;
     color: blue;
 }
