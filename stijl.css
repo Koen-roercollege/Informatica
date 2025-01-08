@@ -4,6 +4,11 @@ a {
     font-size: 130%
 }
 body {background-color: #F0F8FF}
+div {
+  background-color: #F0F8FF;
+  width: 600px;
+  padding: 50px;
+  margin: 20px;
 h1 {
     color: black;
     font-family: verdana;
