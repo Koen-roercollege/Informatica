@@ -9,6 +9,10 @@ table {
   border-collapse: collapse;
   width: 40%;
 }
+        </style>
+    </head>
+
+<body>
 
 <table>
   <tr>
@@ -80,3 +84,6 @@ table {
     <td>36,5 inch</td>
   </tr>
 </table>
+
+    </body>
+</html>
