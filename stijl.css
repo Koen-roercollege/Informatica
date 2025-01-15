@@ -4,6 +4,7 @@ a {
     font-size: 130%
 }
 body
+ background-color: lightblue;
 div {
   background-color: #F0F8FF;
   width: 600px;
