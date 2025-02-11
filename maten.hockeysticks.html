@@ -5,14 +5,17 @@
     <head>
         <style>
               body {
-  background-image: url('https://img.freepik.com/premium-vector/hockeyveld-bovenaanzicht-met-juiste-verhouding_97886-10988.jpg');
-  background-position: center;
+  background-image: url("https://img.freepik.com/premium-vector/hockeyveld-bovenaanzicht-met-juiste-verhouding_97886-10988.jpg");
             }
-  backgound-image {
+            .bg-image { 
+  -webkit-filter: blur(8px);
+  filter: blur(8px);
   -webkit-filter: grayscale(100%); 
   filter: grayscale(100%);
-  -webkit-filter: blur(5px); 
-  filter: blur(5px);
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
               img {
             float: right;
